@@ -1,0 +1,13 @@
+,harry,ron,hermione,quirell,voldemort,dumbledore,students,pomfrey,hagrid,mrs_weasley,ginny,vernon
+harry,0,7,5,9,2,22,0,5,2,1,0,0
+ron,7,0,1,0,0,0,0,0,0,0,0,0
+hermione,5,1,0,0,0,0,0,0,0,0,0,0
+quirrell,17,0,0,1,3,0,0,0,0,0,0,0
+voldemort,4,0,0,7,0,0,0,0,0,0,0,0
+dumbledore,26,0,0,0,0,0,7,0,0,0,0,0
+students,2,0,0,0,0,0,1,0,0,0,0,0
+pomfrey,3,1,1,0,0,0,0,0,0,0,0,0
+hagrid,5,0,0,0,0,0,0,0,0,0,0,0
+mrs_weasley,2,0,0,0,0,0,0,0,0,0,1,1
+ginny,0,0,0,0,0,0,0,0,0,2,0,0
+vernon,2,0,0,0,0,0,0,0,0,0,0,0
